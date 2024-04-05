@@ -1,4 +1,3 @@
-package D51_TICTACTOE;
 
 
 import java.util.Scanner;
